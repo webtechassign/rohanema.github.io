@@ -1,0 +1,117 @@
+/* Add this to your existing styles.css file or create a new CSS file for about.html */
+
+/* Styles for About Page */
+
+.about {
+    padding: 20px;
+  }
+  
+  .about h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+  }
+  .about h6{
+    color: yellow;
+  }
+  
+  .about{
+    background: rgba(0,0,0,0.8) url('mc9.jpeg');
+    background-size: contain;
+    background-blend-mode: darken ;
+  }
+
+  .dewan{
+    text-align: center;
+    padding-top: 12px;
+    font-family:'Ubuntu', sans-serif;
+    font-size: 7px;
+  }
+
+
+
+  /* Add this to your existing styles.css file or create a new CSS file for order.html */
+
+/* Styles for Order Page */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+    background-image: url('your-background-image-url.jpg'); /* Replace 'your-background-image-url.jpg' with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .order {
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+  }
+  
+  .order h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: yellow;
+  }
+  
+  .order p {
+    margin-bottom: 15px;
+    color: #fff;
+  }
+  
+  .order .mcdonalds-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ffcc00;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .order .mcdonalds-link:hover {
+    background-color: #ffdb4d;
+  }
+
+ .order{
+    background: rgba(0,0,0,0.8) url('mc4.jpej.jpg');
+    background-size: contain;
+    background-blend-mode: darken ;
+
+ }
+  
+
+

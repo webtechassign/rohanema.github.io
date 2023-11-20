@@ -1,0 +1,256 @@
+/* Add this to your existing CSS file */
+
+.menu {
+    padding: 20px;
+  }
+  
+  .menu-item {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    color: grey;
+  }
+  
+  .menu-item h2 {
+    color: yellow;
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .menu-item p {
+    color: red;
+    margin-bottom: 10px;
+  }
+
+  .menu{
+    background: rgba(0,0,0,0.8) url('mc5.jpeg');
+    background-size: contain;
+    background-blend-mode: darken ;
+}
+.menu h1{
+    color:yellow;
+}
+
+.menu p{
+    color: red;
+}
+
+.menu h4{
+    color: blue;
+}
+
+.menu h3{
+    color: violet;
+}
+
+
+.dew{
+    text-align: center;
+    padding-top: 12px;
+    font-family:'Ubuntu', sans-serif;
+    font-size: 7px;
+}
+
+/* Add this to your existing styles.css file or create a new CSS file for events.html */
+
+/* Styles for Events Page */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-image: url('your-background-image-url.jpg'); /* Replace 'your-background-image-url.jpg' with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .events {
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+  }
+  
+  .events h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .event-info {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-info p {
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  
+
+
+
+  .events{
+
+    background: rgba(0,0,0,0.8) url('mc8.jpeg');
+    background-size: contain;
+    background-blend-mode: darken;
+     
+  }
+
+
+
+
+  .rohan{
+    text-align: center;
+    padding-top: 12px;
+    font-family:'Ubuntu', sans-serif;
+    font-size: 7px;
+  }
+
+  
+  .events h1{
+    color: yellow;
+  }
+
+  .nema{
+    color: blue;
+  }
+
+
+
+  /* Add this to your existing styles.css file or create a new CSS file for events.html */
+
+/* Styles for Events Page */
+
+/* Add this to your existing styles.css file or create a new CSS file for events.html */
+
+/* Styles for Events Page */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-image: url('your-background-image-url.jpg'); /* Replace 'your-background-image-url.jpg' with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .events {
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+  }
+  
+  .events h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .event-info {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-info p {
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+
+
+  .ayu{
+    text-align: center;
+    padding-top: 12px;
+    font-family:'Ubuntu', sans-serif;
+    font-size: 7px;
+  }
+  .sh{
+    color: blue;
+  }
+  .specials h1{
+    color: yellow;
+  }
+
+  .specials{
+    background: rgba(0,0,0,0.8) url('mc2.jpeg');
+    background-size: contain;
+    background-blend-mode: darken ;
+
+  }
+  
+
+  
+  
+
+
+
+
+  
